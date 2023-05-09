@@ -23,5 +23,5 @@ Libraries:
 Eample was found on this article:
 https://pt.stackoverflow.com/questions/315737/criar-um-mini-crud-b%C3%A1sico-em-tkinter-com-python
 
-My projecct goes like this:
+My project goes like this:
 ![Captura de tela 2023-05-09 190113](https://github.com/TiagusFR/Simple-GUI-in-Python-with-CRUD-operations/assets/124302337/d8f5d385-3b5c-4f1e-a191-a45c21b0f387)
