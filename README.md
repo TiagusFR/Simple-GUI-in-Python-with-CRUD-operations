@@ -6,12 +6,18 @@ I wanted to do a complete C.R.U.D. project and this was what I got.
 
 
 Files: 
+
 The exp.py file is this mentioned example file, that I got to creathe the interfacce. 
+
 The ops.py is my version with some increases that I knew it would nice to implement to make project complete. 
 
+
 Libraries:
+
 -Tkinter: was enough to make all features as the operations, the grid, and message alerts.
+
 -Sqlite3: as the database. 
+
 
 
 Eample was found on this article:
